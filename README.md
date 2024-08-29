@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma from Mumbai, India</h1>
 <h3 align="center">Worked as a Software Development Engineer, a Machine Learning Intern, and a Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv35&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamv35" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
 
 - 🔭 I have 2+ year of Experience as **Data Analyst**
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Case Study on Data Science & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamV35?tab=repositories](https://github.com/ShubhamV35?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamV2503?tab=repositories](https://github.com/ShubhamV2503?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@shubham2503](https://medium.com/@shubham2503)
 
