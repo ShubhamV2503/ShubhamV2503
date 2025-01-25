@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
 
-- 🔭 I have 2+ year of Experience as **Data Analyst**
+- 🔭 I have an Experience as **Data Analyst**  , **Software Development** , 
 
 - 🌱 I’m currently Pursuing my master's from NMIMS **In Data Science & Business Analytics**
 
