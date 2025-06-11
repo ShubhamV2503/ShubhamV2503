@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamV2503?tab=repositories](https://github.com/ShubhamV2503?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@shubham2503](https://medium.com/@shubham2503)
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Software Development**
 
