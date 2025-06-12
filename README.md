@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
 
-- 🔭 Experienced as **Data Analyst**  , **Software Development** , 
-
 - 🌱 Pursuing my master's from NMIMS **In Data Science & Business Analytics**
 
 - 👯 Open to collaborate on **Case Study on Data Science & Artificial Intelligence**
