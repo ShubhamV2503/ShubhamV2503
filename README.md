@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma from Mumbai, India</h1>
-<h3 align="center">Worked as a Software Development Engineer, a Machine Learning Intern, and a Data Analyst.</h3>
+<h3 align="center">Worked as a Software Development Engineer Intern, and a Data Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
 
