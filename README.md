@@ -7,10 +7,7 @@
 
 - 🌱 I’m currently Pursuing my master's from NMIMS **In Data Science & Business Analytics**
 
-- 👯 I’m looking to collaborate on **Case Study on Data Science & AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamV2503?tab=repositories](https://github.com/ShubhamV2503?tab=repositories)
-
+- 👯 I’m looking to collaborate on **Case Study on Data Science & Artificial Intelligence**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Software Development**
 
