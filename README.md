@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
 
-- 🔭 I have an Experience as **Data Analyst**  , **Software Development** , 
+- 🔭 Experienced as **Data Analyst**  , **Software Development** , 
 
-- 🌱 I’m currently Pursuing my master's from NMIMS **In Data Science & Business Analytics**
+- 🌱 Pursuing my master's from NMIMS **In Data Science & Business Analytics**
 
-- 👯 I’m looking to collaborate on **Case Study on Data Science & Artificial Intelligence**
+- 👯 Open to collaborate on **Case Study on Data Science & Artificial Intelligence**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Software Development**
 
