@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma </h1>
 <h3 align="center">Worked as a Software Development Engineer Intern, and a Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p> 
 
 - 🌱 Pursuing my master's from NMIMS **In Data Science & Business Analytics**
 
