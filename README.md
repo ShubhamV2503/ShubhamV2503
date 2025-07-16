@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamv2503&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamV2503" /> </p> 
 
-- 🌱 Pursuing my master's from NMIMS **In Data Science & Business Analytics**
+- 🌱 MTech Student from NMIMS **In Data Science & Business Analytics**
 
 - 👯 Open to collaborate on **Case Study on Data Science & Artificial Intelligence**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Software Development**
-
-- 📫 How to reach me **vishwakarmashubham.2503@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubham-vishwakarma2503/](https://www.linkedin.com/in/shubham-vishwakarma2503/)
 
