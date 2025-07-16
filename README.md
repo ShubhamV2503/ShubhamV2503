@@ -16,12 +16,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Blog</h2>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">GitHub Stats:</h2>
 </br>
