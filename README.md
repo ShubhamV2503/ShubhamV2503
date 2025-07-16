@@ -20,33 +20,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="left">Social</h2>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-vishwakarma2503" title="LinkedIn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shubham-vishwakarma2503" height="30" width="40" /></a>
-<a href="https://medium.com/@shubham2503" title="Medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubham2503" height="30" width="40" /></a>
-<a href="https://kaggle.com/rayuga2503" title="Kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@rayuga2503" height="30" width="40" /></a>
-</br>
-</br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h2 align="left">Coding Platform</h2>
-<p align="left">
-<a href="https://www.hackerrank.com/shubham2503" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubham2503" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/@shubham2503" title="CodeForce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@shubham2503" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@rayuga2503" title="LeetCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rayuga2503" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/_rayu" title="GeeksforGeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@_rayu" height="30" width="40" /></a>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,flask" />
-  </a>
-    <a href="https://pandas.pydata.org" title="Jupyter Notebook" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
-</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">GitHub Stats:</h2>
