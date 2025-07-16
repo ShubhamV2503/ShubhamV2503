@@ -39,45 +39,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="left">Languages and Tools:</h2>
-
-- Programming Language
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java" />
-  </a>
-</p>
-
-- Data Science
-<p align="left">
-  <a href="https://pandas.pydata.org" title="Pandas" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" title="SQL SERVER" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <a href="https://seaborn.pydata.org/" title="Seaborn" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="PowerBI" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" title="Deep Learning" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="Deep Learning" width="40" height="40"/> </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-  </a>
-  <a href="https://pytorch.org/" title="pytorch" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-   <a href="https://scikit-learn.org/" title="scikit-learn" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws" />
-  </a>
-</p>
-
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
