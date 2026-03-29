@@ -67,6 +67,7 @@ Create a room → share the ID → code together live. No signup needed.
 <div align="center">
 
 ### GitHub
+
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10" height="160"/>
 
@@ -78,29 +79,49 @@ Create a room → share the ID → code together live. No signup needed.
 
 </div>
 
-<div align="center">
+<br/>
 
 ### LeetCode &nbsp;·&nbsp; Kaggle
 
-| 🟨 LeetCode | Stats |
-|:---|:---|
-| Problems Solved | **127 / 3887** |
-| Easy / Med / Hard | **94** · **31** · **2** |
-| Contest Rating | **1,592** |
-| Global Ranking | **207,753** / 858,465 |
-| Top Percentile | **24.57%** |
-| Active Days (1yr) | **92 days** · Max Streak **20** |
-| Submissions (1yr) | **366 submissions** |
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-| 🟦 Kaggle | Stats |
-|:---|:---|
-| Tier | **Discussions Legacy Expert** |
-| Competitions | **39** |
-| Datasets | **10** |
-| Discussions | **136** |
-| Code Notebooks | **10** |
-| Followers | **11** |
+#### 🟨 LeetCode &nbsp; [![Profile](https://img.shields.io/badge/rayuga2503-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rayuga2503)
 
+| Metric | Value |
+|:---|:---|
+| 🟢 Easy Solved | **94** / 935 |
+| 🟡 Medium Solved | **31** / 2033 |
+| 🔴 Hard Solved | **2** / 919 |
+| ✅ Total Solved | **127** / 3887 |
+| 🏆 Contest Rating | **1,592** |
+| 🌍 Global Ranking | **#207,753** / 858,465 |
+| 📊 Top Percentile | **24.57%** |
+| 🗓️ Active Days (1yr) | **92 days** · Max Streak **20** |
+| 📨 Submissions (1yr) | **366** |
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### 🟦 Kaggle &nbsp; [![Profile](https://img.shields.io/badge/rayuga2503-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/rayuga2503)
+
+| Metric | Value |
+|:---|:---|
+| 🥇 Tier | **Discussions Legacy Expert** |
+| 🏆 Competitions | **39** |
+| 📦 Datasets | **10** |
+| 💻 Code Notebooks | **10** |
+| 💬 Discussions | **136** |
+| 👥 Followers | **11** |
+| 📈 Top Percentile | **Top 20%** across 40+ competitions |
+| 🎖️ Best Result | **Won** a Kaggle competition 🥇 |
+| 🌍 Profile | **Discussions Legacy Expert (2×)** |
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -160,26 +181,6 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ CV Detection & Tracking Pipeline
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shubhamv2503)
-
-Real-time machine & personnel tracking at **98% detection accuracy** for production throughput KPIs.
-
-`Roboflow` `Computer Vision` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More on my GitHub →
-[![Profile](https://img.shields.io/badge/github.com/shubhamv2503-EC4899?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamv2503)
-
-Explore all repositories, notebooks, and experiments across ML, GenAI, and data engineering.
-
-</td>
-</tr>
 </table>
 
 ---
@@ -225,14 +226,55 @@ Explore all repositories, notebooks, and experiments across ML, GenAI, and data 
 <!-- EXPERIENCE -->
 ## 💼 Experience
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  🏢  LTIMindtree              Data Scientist Intern    [ Current      ]  GenAI│
-│  🏢  Pando Data — Amsterdam   Data Scientist Intern    [ Jul–Nov 2025 ]  CV   │
-│  🏢  ITJOBXS                  Software Engineer Intern [ Nov–Jan 2025 ]       │
-│  🏢  Alu Glass System         Data Analyst             [ Dec'22–Apr'24]       │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th align="left">🏢 Company</th>
+<th align="left">💼 Role / Title</th>
+<th align="left">📅 Tenure</th>
+<th align="left">⏱️ Duration</th>
+<th align="left">🔧 Focus Area</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>LTIMindtree</b> <br/><sub>Bengaluru, India</sub></td>
+<td>Data Scientist Intern</td>
+<td>Jan 2026 – Present</td>
+<td>~3 months</td>
+<td>GenAI Tech Stack · LLMs · Agentic AI</td>
+</tr>
+<tr>
+<td><b>Pando Data</b> <br/><sub>Amsterdam, Netherlands 🇳🇱</sub></td>
+<td>Data Scientist Intern</td>
+<td>Jul 2025 – Nov 2025</td>
+<td>5 months</td>
+<td>Computer Vision · Object Detection · Production Analytics (98% accuracy)</td>
+</tr>
+<tr>
+<td><b>ITJOBXS</b> <br/><sub>Mumbai, India</sub></td>
+<td>Software Engineer Intern</td>
+<td>Nov 2024 – Jan 2025</td>
+<td>3 months</td>
+<td>Backend Python · reCAPTCHA Integration · System Performance</td>
+</tr>
+<tr>
+<td><b>Alu Glass System</b> <br/><sub>Mumbai, India</sub></td>
+<td>Data Analyst</td>
+<td>Dec 2022 – Apr 2024</td>
+<td>1 year 5 months</td>
+<td>Data Processing · Report Automation · Team Management (20+ workers)</td>
+</tr>
+<tr>
+<td colspan="3" align="right"><b>🗂️ Total Professional Experience</b></td>
+<td colspan="2"><b>~2 years 4 months</b> (excl. current)</td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 ---
 
