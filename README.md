@@ -81,22 +81,23 @@ Create a room → share the ID → code together live. No signup needed.
 
 <div align="center">
 
-<!-- Stats card via stats.quine.sh — reliable alternative -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10&cache_seconds=1800" />
-&nbsp;
-<!-- Top langs via same service with cache buster -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10&cache_seconds=1800" />
+<a href="https://github.com/ShubhamV2503">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10&cache_seconds=86400&v=2" alt="Shubham's GitHub Stats"/>
+</a>
+<a href="https://github.com/ShubhamV2503">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10&cache_seconds=86400&v=2" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com?user=ShubhamV2503&theme=radical&background=0d1117&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899&sideLabels=c9d1d9&border=EC4899&border_radius=10" />
-
+<a href="https://github.com/ShubhamV2503">
+  <img height="165" src="https://streak-stats.demolab.com?user=ShubhamV2503&theme=radical&background=0d1117&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899&sideLabels=c9d1d9&border=EC4899&border_radius=10&v=2" alt="GitHub Streak"/>
+</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamV2503&theme=github-dark&bg_color=0d1117&color=EC4899&line=8B5CF6&point=ffffff&area=true&area_color=EC4899&hide_border=false&border_color=EC4899&radius=8" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamV2503&theme=github-dark&bg_color=0d1117&color=EC4899&line=8B5CF6&point=ffffff&area=true&hide_border=false&border_color=EC4899&radius=8" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -328,9 +329,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true&rank=B,C"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=false" width="80%" alt="GitHub Trophies Row 1"/>
 </div>
 
 ---
@@ -342,7 +341,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 
 *"First, solve the problem. Then, write the code."*
 
-![Visitors](https://komarev.com/ghpvc/?username=ShubhamV2503&color=EC4899&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShubhamV2503.ShubhamV2503&left_color=gray&right_color=EC4899&left_text=Profile%20Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:8B5CF6,100:EC4899&height=120&section=footer" width="100%"/>
 
