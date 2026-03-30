@@ -172,7 +172,7 @@ Chat-based Q&A over video transcripts & watch-history. **35% better relevance**,
 <td width="50%" valign="top">
 
 ### 🧠 Brain CT Scan Denoising
-[![Demo](https://img.shields.io/badge/Live_Demo-0F6E56?style=flat-square)](https://github.com/shubhamv2503)
+[![Demo](https://img.shields.io/badge/Live_Demo-0F6E56?style=flat-square)](https://huggingface.co/spaces/rayuga2503/NeuroScanAI)
 
 4-layer encoder-decoder for DICOM denoising. **87% classification accuracy**, <5s latency on EC2.
 
@@ -182,7 +182,7 @@ Chat-based Q&A over video transcripts & watch-history. **35% better relevance**,
 <td width="50%" valign="top">
 
 ### 📈 ETL Stock Forecasting Pipeline
-[![Demo](https://img.shields.io/badge/Live_Demo-0F6E56?style=flat-square)](https://github.com/shubhamv2503)
+[![Demo](https://img.shields.io/badge/Live_Demo-0F6E56?style=flat-square)](https://huggingface.co/spaces/rayuga2503/gold-price-forecaster)
 
 Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reduction**, 7-year history.
 
