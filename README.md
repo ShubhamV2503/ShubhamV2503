@@ -106,17 +106,7 @@ Create a room → share the ID → code together live. No signup needed.
 
 #### 🟨 LeetCode &nbsp; [![Profile](https://img.shields.io/badge/rayuga2503-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rayuga2503)
 
-| Metric | Value |
-|:---|:---|
-| 🟢 Easy Solved | **94** / 935 |
-| 🟡 Medium Solved | **31** / 2033 |
-| 🔴 Hard Solved | **2** / 919 |
-| ✅ Total Solved | **127** / 3887 |
-| 🏆 Contest Rating | **1,592** |
-| 🌍 Global Ranking | **#207,753** / 858,465 |
-| 📊 Top Percentile | **24.57%** |
-| 🗓️ Active Days (1yr) | **92** · Max Streak **20** |
-| 📨 Submissions (1yr) | **366** |
+[![LeetCode Stats](https://leetcard.jacoblin.com/rayuga2503?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/rayuga2503)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -134,6 +124,8 @@ Create a room → share the ID → code together live. No signup needed.
 | 📈 Top Percentile | **Top 20%** across 40+ competitions |
 | 🎖️ Best Result | **Won** a Kaggle competition 🥇 |
 | 🏅 Expert Rank | **Discussions Expert (2×)** |
+
+*(updated Mar 2026)*
 
 </td>
 </tr>
