@@ -242,7 +242,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 <tr>
 <td><b>LTIMindtree</b> <br/><sub>Bengaluru, India</sub></td>
 <td>Data Scientist Intern</td>
-<td>Jan 2026 – Present</td>
+<td>Feb 2026 – Present</td>
 <td>~3 months</td>
 <td>GenAI Tech Stack · LLMs · Agentic AI</td>
 </tr>
