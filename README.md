@@ -81,9 +81,11 @@ Create a room → share the ID → code together live. No signup needed.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10&hide_border=false" />
+<!-- Stats card via stats.quine.sh — reliable alternative -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10&cache_seconds=1800" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10&hide_border=false" />
+<!-- Top langs via same service with cache buster -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10&cache_seconds=1800" />
 
 </div>
 
@@ -326,7 +328,9 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=7&margin-w=8&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true&rank=B,C"/>
 </div>
 
 ---
