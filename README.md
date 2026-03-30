@@ -7,6 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamv2503)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamv2503-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmashubham.2503@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rayuga2503)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rayuga2503)
@@ -33,6 +34,7 @@ class ShubhamVishwakarma:
     experience  = "2.5+ years | Data Science · Analytics · Software Engineering"
     education   = "M.Tech Data Science @ NMIMS (9.2 GPA) | B.E @ TCET (9.2 GPA)"
     location    = "Bengaluru, Karnataka, India 🇮🇳"
+    portfolio   = "https://shubhamv2503-portfolio.vercel.app"
 
     focus       = ["GenAI / LLMs", "MLOps", "Computer Vision", "Time Series"]
     shipped     = "codesharelive — real-time collaborative code editor 🚀"
@@ -52,7 +54,7 @@ class ShubhamVishwakarma:
 **The fastest way to collaborate, pair program, and debug with developers anywhere.**
 Create a room → share the ID → code together live. No signup needed.
 
-![Real-time](https://img.shields.io/badge/⚡_Real--time_Sync-EC4899?style=flat-square&logoColor=white)
+![Real-time](https://img.shields.io/badge/⚡_Real--time_Sync-EC4899?style=flat-square)
 ![Rooms](https://img.shields.io/badge/🔗_Room--based_Sessions-8B5CF6?style=flat-square)
 ![No Signup](https://img.shields.io/badge/✅_No_Signup_Required-6366F1?style=flat-square)
 ![Pair](https://img.shields.io/badge/👥_Pair_Programming-185FA5?style=flat-square)
@@ -61,27 +63,44 @@ Create a room → share the ID → code together live. No signup needed.
 
 ---
 
-<!-- STATS ROW -->
-## 📊 Stats Across Platforms
+<!-- PORTFOLIO -->
+## 🌐 Portfolio
 
 <div align="center">
 
-### GitHub
+[![Portfolio](https://img.shields.io/badge/🌐%20shubhamv2503--portfolio.vercel.app-EC4899?style=for-the-badge)](https://shubhamv2503-portfolio.vercel.app)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10" height="160"/>
+> Explore my full work, projects, and background at **[shubhamv2503-portfolio.vercel.app](https://shubhamv2503-portfolio.vercel.app)**
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhamV2503&show_icons=true&theme=radical&bg_color=0d1117&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&border_color=EC4899&count_private=true&border_radius=10&hide_border=false" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV2503&layout=compact&theme=radical&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&border_color=EC4899&langs_count=8&border_radius=10&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamV2503&theme=radical&background=0d1117&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899&sideLabels=c9d1d9&border=EC4899&border_radius=10" height="160"/>
+<img height="160" src="https://streak-stats.demolab.com?user=ShubhamV2503&theme=radical&background=0d1117&ring=EC4899&fire=8B5CF6&currStreakLabel=EC4899&sideLabels=c9d1d9&border=EC4899&border_radius=10" />
 
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamV2503&theme=github-dark&bg_color=0d1117&color=EC4899&line=8B5CF6&point=ffffff&area=true&area_color=EC4899&hide_border=false&border_color=EC4899&radius=8" width="95%"/>
+</div>
 
-### LeetCode &nbsp;·&nbsp; Kaggle
+---
+
+<!-- LEETCODE + KAGGLE SIDE BY SIDE -->
+## 🏅 LeetCode &nbsp;·&nbsp; Kaggle
 
 <div align="center">
 <table>
@@ -99,7 +118,7 @@ Create a room → share the ID → code together live. No signup needed.
 | 🏆 Contest Rating | **1,592** |
 | 🌍 Global Ranking | **#207,753** / 858,465 |
 | 📊 Top Percentile | **24.57%** |
-| 🗓️ Active Days (1yr) | **92 days** · Max Streak **20** |
+| 🗓️ Active Days (1yr) | **92** · Max Streak **20** |
 | 📨 Submissions (1yr) | **366** |
 
 </td>
@@ -117,18 +136,11 @@ Create a room → share the ID → code together live. No signup needed.
 | 👥 Followers | **11** |
 | 📈 Top Percentile | **Top 20%** across 40+ competitions |
 | 🎖️ Best Result | **Won** a Kaggle competition 🥇 |
-| 🌍 Profile | **Discussions Legacy Expert (2×)** |
+| 🏅 Expert Rank | **Discussions Expert (2×)** |
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamV2503&theme=github-dark&bg_color=0d1117&color=EC4899&line=8B5CF6&point=ffffff&area=true&area_color=EC4899&hide_border=false&border_color=EC4899&radius=8" width="95%"/>
 </div>
 
 ---
@@ -240,36 +252,36 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 </thead>
 <tbody>
 <tr>
-<td><b>LTIMindtree</b> <br/><sub>Bengaluru, India</sub></td>
+<td><b>LTIMindtree</b><br/><sub>Bengaluru, India</sub></td>
 <td>Data Scientist Intern</td>
-<td>Feb 2026 – Present</td>
+<td>Jan 2026 – Present</td>
 <td>~3 months</td>
-<td>GenAI Tech Stack · LLMs · Agentic AI</td>
+<td>GenAI Stack · LLMs · Agentic AI</td>
 </tr>
 <tr>
-<td><b>Pando Data</b> <br/><sub>Amsterdam, Netherlands 🇳🇱</sub></td>
+<td><b>Pando Data</b><br/><sub>Amsterdam, Netherlands 🇳🇱</sub></td>
 <td>Data Scientist Intern</td>
 <td>Jul 2025 – Nov 2025</td>
 <td>5 months</td>
-<td>Computer Vision · Object Detection · Production Analytics (98% accuracy)</td>
+<td>Computer Vision · Object Detection · 98% accuracy · Production KPIs</td>
 </tr>
 <tr>
-<td><b>ITJOBXS</b> <br/><sub>Mumbai, India</sub></td>
+<td><b>ITJOBXS</b><br/><sub>Mumbai, India</sub></td>
 <td>Software Engineer Intern</td>
 <td>Nov 2024 – Jan 2025</td>
 <td>3 months</td>
-<td>Backend Python · reCAPTCHA Integration · System Performance</td>
+<td>Backend Python · reCAPTCHA · −30% invalid submissions</td>
 </tr>
 <tr>
-<td><b>Alu Glass System</b> <br/><sub>Mumbai, India</sub></td>
+<td><b>Alu Glass System</b><br/><sub>Mumbai, India</sub></td>
 <td>Data Analyst</td>
 <td>Dec 2022 – Apr 2024</td>
 <td>1 year 5 months</td>
-<td>Data Processing · Report Automation · Team Management (20+ workers)</td>
+<td>Data Processing · Report Automation · 80% efficiency ↑ · Team of 20+</td>
 </tr>
 <tr>
 <td colspan="3" align="right"><b>🗂️ Total Professional Experience</b></td>
-<td colspan="2"><b>~2 years 4 months</b> (excl. current)</td>
+<td colspan="2"><b>~2 years 4 months</b> <i>(+ current role ongoing)</i></td>
 </tr>
 </tbody>
 </table>
@@ -279,7 +291,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 ---
 
 <!-- ACHIEVEMENTS -->
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 <div align="center">
 
@@ -289,16 +301,30 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 | 🥇 | **Kaggle Discussions Legacy Expert (2×)** — top 20% across 40+ competitions, won a competition |
 | 🟨 | **LeetCode** — 127 problems solved · Rating 1,592 · Top 24.57% globally |
 | 📄 | **4 Published Research Papers** — IEEE · IJNRB · IJARESM |
-| ☁️ | **AWS Certified Cloud Practitioner** |
-| 📊 | **Google Advanced Data Analytics** Professional Certificate |
-| 🤖 | **IBM Advanced Data Science & AI** Professional Certificate |
 | 🌍 | **2 Freelance GenAI Projects** via Upwork — clients from Bangladesh & Singapore |
 
 </div>
 
 ---
 
+<!-- CERTIFICATIONS -->
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 | Certification | Issuer |
+|:---:|:---|:---:|
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| 📊 | **Google Advanced Data Analytics** Professional Certificate | Google |
+| 🤖 | **IBM Advanced Data Science & AI** Professional Certificate | IBM |
+
+</div>
+
+---
+
 <!-- TROPHIES -->
+## 🏅 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShubhamV2503&theme=radical&no-frame=true&column=7&margin-w=8&no-bg=true"/>
 </div>
