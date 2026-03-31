@@ -108,15 +108,10 @@ Create a room → share the ID → code together live. No signup needed.
 
 | Metric | Value |
 |:---|:---|
-| 🟢 Easy Solved | **94** / 935 |
-| 🟡 Medium Solved | **31** / 2033 |
-| 🔴 Hard Solved | **2** / 919 |
 | ✅ Total Solved | **127** / 3887 |
 | 🏆 Contest Rating | **1,592** |
 | 🌍 Global Ranking | **#207,753** / 858,465 |
 | 📊 Top Percentile | **24.57%** |
-| 🗓️ Active Days (1yr) | **92** · Max Streak **20** |
-| 📨 Submissions (1yr) | **366** |
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -126,11 +121,6 @@ Create a room → share the ID → code together live. No signup needed.
 | Metric | Value |
 |:---|:---|
 | 🥇 Tier | **Discussions Legacy Expert** |
-| 🏆 Competitions | **39** |
-| 📦 Datasets | **10** |
-| 💻 Code Notebooks | **10** |
-| 💬 Discussions | **136** |
-| 👥 Followers | **11** |
 | 📈 Top Percentile | **Top 20%** across 40+ competitions |
 | 🎖️ Best Result | **Won** a Kaggle competition 🥇 |
 | 🏅 Expert Rank | **Discussions Expert (2×)** |
