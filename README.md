@@ -19,7 +19,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+LTIMindtree;GenAI+%7C+LLMs+%7C+MLOps+Engineer;Amazon+ML+Summer+School+2025;Kaggle+Discussions+Legacy+Expert;Builder+of+codesharelive+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+LTIMindtree;GenAI+%7C+LLMs+%7C+MLOps+Engineer;Amazon+ML+Summer+School+2025;Kaggle+Discussions+Legacy+Expert;Builder+of+codesharelive+%F0%9F%9A%80;Published+VSCode+Extension+Author" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,27 +37,80 @@ class ShubhamVishwakarma:
     portfolio   = "https://shubhamv2503-portfolio.vercel.app"
 
     focus       = ["GenAI / LLMs", "MLOps", "Computer Vision", "Time Series"]
-    shipped     = "codesharelive — real-time collaborative code editor 🚀"
+    shipped     = [
+        "codesharelive  — real-time collaborative code editor 🚀",
+        "RepoLocker     — hybrid CLI + cloud secrets encryption platform 🔐",
+        "AdVault        — watch ads, earn real money dashboard 💰",
+        "Complexity Analyzer — AI-powered VSCode Big O extension ⚡",
+    ]
 
     motto       = "First, solve the problem. Then, write the code."
 ```
 
 ---
 
-<!-- CODESHARELIVE SHOWCASE -->
-## 🚢 Shipped Product
+<!-- SHIPPED PRODUCTS -->
+## 🚢 Shipped Products
 
 <div align="center">
 
 [![codesharelive](https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:8B5CF6&height=90&text=codesharelive&fontSize=40&fontColor=ffffff&desc=Stop%20sharing%20screenshots.%20Start%20sharing%20live%20code.&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://codesharelive.vercel.app)
 
-**The fastest way to collaborate, pair program, and debug with developers anywhere.**
+**The fastest way to collaborate, pair program, and debug with developers anywhere.**  
 Create a room → share the ID → code together live. No signup needed.
 
 ![Real-time](https://img.shields.io/badge/⚡_Real--time_Sync-EC4899?style=flat-square)
 ![Rooms](https://img.shields.io/badge/🔗_Room--based_Sessions-8B5CF6?style=flat-square)
 ![No Signup](https://img.shields.io/badge/✅_No_Signup_Required-6366F1?style=flat-square)
 ![Pair](https://img.shields.io/badge/👥_Pair_Programming-185FA5?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![RepoLocker](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=90&text=RepoLocker&fontSize=40&fontColor=00FF88&desc=Next-Gen%20Developer%20Security%20Platform&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://repolocker.vercel.app)
+
+**Hybrid security platform — Lightning-fast Go CLI + Next.js Cloud Dashboard.**  
+Encrypt, lock, and manage your secrets and environments across your entire team.
+
+![Go CLI](https://img.shields.io/badge/⚡_Go_CLI-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_Dashboard-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Neon UI](https://img.shields.io/badge/🟢_Neon_Gas_Aesthetic-00FF88?style=flat-square)
+![Encryption](https://img.shields.io/badge/🔐_Local_Cryptography-8B5CF6?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![AdVault](https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,100:16213E&height=90&text=AdVault&fontSize=40&fontColor=FFD700&desc=Watch%20Ads.%20Earn%20Real%20Money.&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://ad-vault.vercel.app)
+
+**Premium ad-to-earn platform with glassmorphic UI and a powerful admin dashboard.**  
+Users earn real money watching ads; admins control inventory, payouts & analytics.
+
+![Glassmorphic](https://img.shields.io/badge/✨_Glassmorphic_UI-FFD700?style=flat-square)
+![Admin Dashboard](https://img.shields.io/badge/📊_Admin_Dashboard-EC4899?style=flat-square)
+![Earn](https://img.shields.io/badge/💰_Earn_Real_Money-22C55E?style=flat-square)
+![Animations](https://img.shields.io/badge/🎬_Smooth_Animations-8B5CF6?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Complexity Analyzer](https://capsule-render.vercel.app/api?type=rect&color=0:007ACC,100:0052A5&height=90&text=Time%20Complexity%20Analyzer%20(AI)&fontSize=30&fontColor=ffffff&desc=Real-time%20Big%20O%20Analysis%20for%20VSCode&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://marketplace.visualstudio.com/items?itemName=ShubhamVishwakarma.complexity-analyzer-extension)
+
+**AI-powered VSCode extension — instant Big O analysis as you type.**  
+Powered by Qwen 2.5 Coder 32B · supports Ollama (local/private) · zero config needed.
+
+![VSCode](https://img.shields.io/badge/VSCode_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Big O](https://img.shields.io/badge/⏱_Time_%26_Space_Complexity-EC4899?style=flat-square)
+![AI](https://img.shields.io/badge/🤖_Qwen_2.5_Coder_32B-8B5CF6?style=flat-square)
+![Local](https://img.shields.io/badge/🦙_Ollama_Local_AI-22C55E?style=flat-square)
 
 </div>
 
@@ -149,6 +202,40 @@ Real-time collaborative code editor. Create rooms, pair program & debug live —
 </td>
 <td width="50%" valign="top">
 
+### 🔐 RepoLocker
+[![Live](https://img.shields.io/badge/LIVE-00FF88?style=flat-square)](https://repolocker.vercel.app)
+
+Hybrid next-gen security platform. Lightning-fast Go CLI for local cryptography + Next.js Cloud Dashboard with a Neon Gas Discharge aesthetic for team-wide secrets management.
+
+`Go CLI` `Next.js` `Encryption` `DevSecOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 AdVault
+[![Live](https://img.shields.io/badge/LIVE-FFD700?style=flat-square)](https://ad-vault.vercel.app)
+
+Premium ad-to-earn web app with glassmorphic UI, smooth animations, and a powerful admin dashboard. Users earn real money watching ads; admins manage everything end-to-end.
+
+`Next.js` `Glassmorphism` `Admin Dashboard`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Time Complexity Analyzer (AI)
+[![VSCode](https://img.shields.io/badge/VSCode_Marketplace-007ACC?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ShubhamVishwakarma.complexity-analyzer-extension)
+
+AI-powered VSCode extension for real-time Big O (Time & Space) analysis as you type. Project-wide intelligence, powered by Qwen 2.5 Coder 32B + Ollama local AI. Zero config.
+
+`VSCode Extension` `Qwen 2.5` `Ollama` `Big O`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 YouTube AI Agent
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shubhamv2503)
 
@@ -157,8 +244,6 @@ Chat-based Q&A over video transcripts & watch-history. **35% better relevance**,
 `LangChain` `Redshift` `Bloom Filter` `GCP`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Brain CT Scan Denoising
@@ -169,6 +254,8 @@ Chat-based Q&A over video transcripts & watch-history. **35% better relevance**,
 `PyTorch` `AutoEncoder` `AWS EC2`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 ETL Stock Forecasting Pipeline
@@ -178,6 +265,8 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 
 `Airflow` `SARIMAX` `S3` `Redshift`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -195,6 +284,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **ML · DL · GenAI**
 
@@ -205,6 +295,13 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Web · Full-Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **MLOps · Cloud · Data**
 
@@ -289,6 +386,7 @@ Automated Gold (XAUUSD) pipeline. SARIMAX over Prophet — **14.16% MAPE reducti
 | 🟨 | **LeetCode** — 127 problems solved · Rating 1,592 · Top 24.57% globally |
 | 📄 | **4 Published Research Papers** — IEEE · IJNRB · IJARESM |
 | 🌍 | **2 Freelance GenAI Projects** via Upwork — clients from Bangladesh & Singapore |
+| 🔌 | **Published VSCode Extension** — Time Complexity Analyzer (AI) on VS Marketplace |
 
 </div>
 
