@@ -52,9 +52,11 @@ class ShubhamVishwakarma:
 <!-- SHIPPED PRODUCTS -->
 ## 🚢 Shipped Products
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-[![codesharelive](https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:8B5CF6&height=90&text=codesharelive&fontSize=40&fontColor=ffffff&desc=Stop%20sharing%20screenshots.%20Start%20sharing%20live%20code.&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://codesharelive.vercel.app)
+[![codesharelive](https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:8B5CF6&height=80&text=codesharelive&fontSize=34&fontColor=ffffff&desc=Stop%20sharing%20screenshots.%20Start%20sharing%20live%20code.&descSize=12&fontAlignY=40&descAlignY=68&animation=fadeIn)](https://codesharelive.vercel.app)
 
 **The fastest way to collaborate, pair program, and debug with developers anywhere.**  
 Create a room → share the ID → code together live. No signup needed.
@@ -64,13 +66,10 @@ Create a room → share the ID → code together live. No signup needed.
 ![No Signup](https://img.shields.io/badge/✅_No_Signup_Required-6366F1?style=flat-square)
 ![Pair](https://img.shields.io/badge/👥_Pair_Programming-185FA5?style=flat-square)
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/>
-
-<div align="center">
-
-[![RepoLocker](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=90&text=RepoLocker&fontSize=40&fontColor=00FF88&desc=Next-Gen%20Developer%20Security%20Platform&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://repolocker.vercel.app)
+[![RepoLocker](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=80&text=RepoLocker&fontSize=34&fontColor=00FF88&desc=Next-Gen%20Developer%20Security%20Platform&descSize=12&fontAlignY=40&descAlignY=68&animation=fadeIn)](https://repolocker.vercel.app)
 
 **Hybrid security platform — Lightning-fast Go CLI + Next.js Cloud Dashboard.**  
 Encrypt, lock, and manage your secrets and environments across your entire team.
@@ -80,13 +79,12 @@ Encrypt, lock, and manage your secrets and environments across your entire team.
 ![Neon UI](https://img.shields.io/badge/🟢_Neon_Gas_Aesthetic-00FF88?style=flat-square)
 ![Encryption](https://img.shields.io/badge/🔐_Local_Cryptography-8B5CF6?style=flat-square)
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br/>
-
-<div align="center">
-
-[![AdVault](https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,100:16213E&height=90&text=AdVault&fontSize=40&fontColor=FFD700&desc=Watch%20Ads.%20Earn%20Real%20Money.&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://ad-vault.vercel.app)
+[![AdVault](https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,100:16213E&height=80&text=AdVault&fontSize=34&fontColor=FFD700&desc=Watch%20Ads.%20Earn%20Real%20Money.&descSize=12&fontAlignY=40&descAlignY=68&animation=fadeIn)](https://ad-vault.vercel.app)
 
 **Premium ad-to-earn platform with glassmorphic UI and a powerful admin dashboard.**  
 Users earn real money watching ads; admins control inventory, payouts & analytics.
@@ -96,13 +94,10 @@ Users earn real money watching ads; admins control inventory, payouts & analytic
 ![Earn](https://img.shields.io/badge/💰_Earn_Real_Money-22C55E?style=flat-square)
 ![Animations](https://img.shields.io/badge/🎬_Smooth_Animations-8B5CF6?style=flat-square)
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/>
-
-<div align="center">
-
-[![Complexity Analyzer](https://capsule-render.vercel.app/api?type=rect&color=0:007ACC,100:0052A5&height=90&text=Time%20Complexity%20Analyzer%20(AI)&fontSize=30&fontColor=ffffff&desc=Real-time%20Big%20O%20Analysis%20for%20VSCode&descSize=14&fontAlignY=42&descAlignY=72&animation=fadeIn)](https://marketplace.visualstudio.com/items?itemName=ShubhamVishwakarma.complexity-analyzer-extension)
+[![Complexity Analyzer](https://capsule-render.vercel.app/api?type=rect&color=0:007ACC,100:0052A5&height=80&text=Time%20Complexity%20Analyzer%20(AI)&fontSize=24&fontColor=ffffff&desc=Real-time%20Big%20O%20Analysis%20for%20VSCode&descSize=12&fontAlignY=40&descAlignY=68&animation=fadeIn)](https://marketplace.visualstudio.com/items?itemName=ShubhamVishwakarma.complexity-analyzer-extension)
 
 **AI-powered VSCode extension — instant Big O analysis as you type.**  
 Powered by Qwen 2.5 Coder 32B · supports Ollama (local/private) · zero config needed.
@@ -112,7 +107,9 @@ Powered by Qwen 2.5 Coder 32B · supports Ollama (local/private) · zero config 
 ![AI](https://img.shields.io/badge/🤖_Qwen_2.5_Coder_32B-8B5CF6?style=flat-square)
 ![Local](https://img.shields.io/badge/🦙_Ollama_Local_AI-22C55E?style=flat-square)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
