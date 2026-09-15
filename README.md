@@ -31,7 +31,7 @@
 class ShubhamVishwakarma:
 
     role        = "Data Scientist & GenAI Engineer @ LTIMindtree"
-    experience  = "2.5+ years | Data Science · Analytics · Software Engineering"
+    experience  = "3+ years | Data Science · Analytics · Software Engineering"
     education   = "M.Tech Data Science @ NMIMS (9.2 GPA) | B.Tech @ TCET (9.2 GPA)"
     location    = "Mumbai, Maharashtra, India 🇮🇳"
     portfolio   = "https://shubhamv2503-portfolio.vercel.app"
